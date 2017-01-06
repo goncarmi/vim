@@ -17,7 +17,9 @@ Plugin 'awk-support.vim'
 Plugin 'bash-support.vim'
 " c support
 Plugin 'c.vim'
-"  git support
+"  git support'
+Plugin 'WolfgangMehner/perl-support'
+
 Plugin 'Git-Support'
 " R support
 "Plugin 'jalvesaq/R-Vim-runtime'
